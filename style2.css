@@ -1,0 +1,118 @@
+body, * {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#sampul {
+    position: relative;
+}
+
+#navbar-atas .collapse ul {
+    padding-left: 10%;
+} 
+#navbar-atas .collapse ul li {
+    padding-left: 25px;
+    
+}
+#navbar-atas .collapse ul li a {
+    color: rgba(0, 0, 0, 0.87);
+}
+#navbar-atas .collapse ul li a:hover {
+    color: #18A0FB;
+} 
+
+
+#footer .card {
+position: absolute;
+width: 100%;
+height: 462px;
+left: 0px;
+top: 1727px;
+
+background: #2C2B2B;
+}
+
+#footer .card img {
+    position: absolute;
+    width: 120px;
+    height: 59px;
+    left: 30px;
+    top: 37px;
+    
+}
+#footer .card p {
+position: absolute;
+width: 160px;
+left: 100px;
+top: 35px;
+
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #ffffff88;
+}
+
+#footer .card .penjelasan-footer {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    
+    
+}
+#footer .card .penjelasan-footer span {
+padding-left: 15px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+letter-spacing: -0.015em;
+
+color: #ffffff88;
+}
+#footer .card .penjelasan-footer h4 {
+    font-family: Montserrat;
+    font-style: normal;
+    
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: -0.015em;
+    
+    color: #FFFFFF;
+    
+}
+#footer .card .copyright {
+position: absolute;
+width: 349px;
+height: 24px;
+left: 80px;
+top: 350px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+letter-spacing: -0.015em;
+
+
+color: #ffffffb9;
+}

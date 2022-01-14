@@ -1,0 +1,367 @@
+body, * {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#sampul {
+    position: relative;
+}
+#header {
+    width: 100%;
+}
+.social {
+    
+    width: 100%;
+    height: 58px;
+    background: linear-gradient(0deg, #000000, #000000), #FFFFFF;
+    color: rgba(255, 255, 255, 0.836)
+}
+.social-media a{
+    position: relative;
+    top : -10px;
+    margin-top: -8px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.63);
+    padding-right: 5px;
+}
+.tombol form {
+    margin-top: -20px;
+}
+.tombol form button:hover {
+    color: #000000;
+}
+
+#sertifikasi button {
+position: absolute;
+left: 80.64%;
+right: 3.93%;
+top: 350px;
+
+
+
+/* Actionable Item */
+
+background: #18A0FB;
+border-radius: 6px;
+}
+
+
+
+
+
+#navbar-atas .collapse ul {
+    padding-left: 10%;
+} 
+#navbar-atas .collapse ul li {
+    padding-left: 25px;
+    
+}
+#navbar-atas .collapse ul li a {
+    color: rgba(0, 0, 0, 0.87);
+}
+#navbar-atas .collapse ul li a:hover {
+    color: #18A0FB;
+} 
+
+#carousel .carousel-item img {
+position: absolute;
+width: 100%;
+height: 400px;
+left: 0px;
+top: -3px;
+
+    
+}
+
+
+#profil .row h4 {
+position: absolute;
+width: 533px;
+height: 83px;
+left: 40px;
+top: 165px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 72px;
+/* or 206% */
+
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+#profil .row p { 
+position: absolute;
+width: 600px;
+height: 90px;
+left: 40px;
+top: 259px;
+
+/* Body P */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+#profil .row h4.visi {
+    position: absolute;
+    width: 600px;
+    height: 36px;
+    left: 8px;
+    top: 450px;
+    
+    
+    /* Body H4 */
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    
+    text-align: center;
+    letter-spacing: -0.015em;
+    
+    color: #000000;
+    
+    }
+    #profil .row p.visi { 
+        position: absolute;
+        width: 600px;
+        height: 90px;
+        left: 37px;
+        top: 520px;
+       
+        
+        /* Body P */
+        
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 30px;
+        /* or 167% */
+        
+        letter-spacing: -0.015em;
+        
+        color: rgba(0, 0, 0, 0.8);
+    }
+
+
+
+    #profil .row h4.misi {
+        position: absolute;
+        width: 600px;
+        height: 36px;
+        left: 8px;
+        top: 650px;
+       
+        
+        /* Body H4 */
+        
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+        /* identical to box height, or 150% */
+        
+        text-align: center;
+        letter-spacing: -0.015em;
+        
+        color: #000000;
+        
+        }
+        #profil .row p.misi { 
+            position: absolute;
+            width: 600px;
+            height: 90px;
+            left: 37px;
+            top: 700px;
+           
+            
+            /* Body P */
+            
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 30px;
+            /* or 167% */
+            
+            letter-spacing: -0.015em;
+            
+            color: rgba(0, 0, 0, 0.8);
+        }
+#profil .row .tugas-fungsi {
+position: absolute;
+width: 600px;
+height: 1204px;
+left: 0px;
+top: 700px;
+
+/* Body P */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+
+/* or 167% */
+
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+#profil .row .tugas-fungsi h4 {
+    text-align: center;
+}
+#profil .row .tugas-fungsi p {
+    position: absolute;
+    width: 686px;
+    height: 1204px;
+    left: 0px;
+    top: 300px;
+   
+    
+    /* Body P */
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    
+    letter-spacing: -0.015em;
+    
+    color: rgba(0, 0, 0, 0.8);
+    
+}
+#profil .row .tugas-fungsi p span {
+    font-size: 24px;
+    font-weight: 350;
+}
+#profil .row .col-4 .card {
+position: absolute;
+width: 100%;
+height: 275px;
+left: 100px;
+top: 180px;
+
+}
+#profil .row .col-4 .card p {
+    margin-top: -40px;
+    margin-left: 70px;
+}
+
+
+
+
+#footer .card {
+position: absolute;
+width: 100%;
+height: 50%;
+left: 0px;
+top: 2727px;
+
+background: #2C2B2B;
+}
+
+#footer .card img {
+    position: absolute;
+    width: 120px;
+    height: 59px;
+    left: 30px;
+    top: 37px;
+    
+}
+#footer .card p {
+position: absolute;
+width: 160px;
+left: 100px;
+top: 35px;
+
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #ffffff88;
+}
+
+#footer .card .penjelasan-footer {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    
+    
+}
+#footer .card .penjelasan-footer span {
+padding-left: 15px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+letter-spacing: -0.015em;
+
+color: #ffffff88;
+}
+#footer .card .penjelasan-footer h4 {
+    font-family: Montserrat;
+    font-style: normal;
+    
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: -0.015em;
+    
+    color: #FFFFFF;
+    
+}
+#footer .card .copyright {
+position: absolute;
+width: 349px;
+height: 24px;
+left: 80px;
+top: 350px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+letter-spacing: -0.015em;
+
+
+color: #ffffffb9;
+}
